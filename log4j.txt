@@ -1,0 +1,5 @@
+INFO    2023-10-20 15:49:33,057 [restartedMain] com.log4j.Log4jApplication  - Inforamtion
+ERROR   2023-10-20 15:49:33,060 [restartedMain] com.log4j.Log4jApplication  - Error
+WARN    2023-10-20 15:49:33,060 [restartedMain] com.log4j.Log4jApplication  - warning
+FATAL   2023-10-20 15:49:33,060 [restartedMain] com.log4j.Log4jApplication  - critical error
+DEBUG   2023-10-20 15:49:33,060 [restartedMain] com.log4j.Log4jApplication  - debugging
